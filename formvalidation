@@ -1,0 +1,33 @@
+{
+"type": "object",
+"properties": {
+
+"name": {
+"type": "string"
+},
+
+{
+"email": {
+"type": "string"
+},
+
+"better": {
+"type": "string"
+},
+    
+"likepizze": {
+"type": "boolean"
+}
+
+
+"prize": {
+"type": "boolean"
+},
+
+required: [“name”]
+},
+
+
+required: [“email”]
+}
+
